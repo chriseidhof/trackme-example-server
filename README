@@ -1,0 +1,4 @@
+This stores the data in a folder data, and that folder is protected by a
+.htaccess file. This is only a proof of concept, for a real script like this
+you should probably store the data in a database or at least outside of the web
+root.
